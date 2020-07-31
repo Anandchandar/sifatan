@@ -1,0 +1,274 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background: white;
+}
+.header-service{
+    width: 100%;
+    height: 80px;
+    background: white;
+}
+.content{
+    background: linear-gradient(rgb(225, 220, 231),#D3F8E8);
+    height: 1080px;
+}
+.content-service{
+    background: linear-gradient(rgb(225, 220, 231),#D3F8E8);
+    height: 1090px;
+    margin-top: 20px;
+}
+.header-logo{
+    float: left;
+    width: 40%;
+}
+.header-logo-text{
+    margin-left: 80px;
+    width: 200px;
+    height: 100px;
+}
+.header-text{
+    float: left;
+    margin-left: 180px;
+    margin-top: 40px;
+}
+.header-text-style{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 15px;
+    border-style: dashed;
+    border: 4px black;
+}
+/* .header-text-style:hover{
+    background: pink;
+} */
+.image-background{
+    width: 100%;
+    filter: brightness(30%);
+    margin-top: -5px;
+    height: 280px;
+}
+.content-background{
+    position: relative;
+}
+.image-background-text{
+    text-align: center;
+    position: absolute;
+    bottom: 100px;
+    right: 510px;
+    font-size: 20px;
+    font-weight: bold;
+    height: 120px;
+    color: orangered;
+}
+.image-text{
+    color: white;
+    font-weight: normal;
+}
+.button-style{
+    background: #ff7402;
+    height: 50px;
+    border: white;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 230px;
+}
+.btn-back{
+    margin-top: 10px;
+}
+h3{
+    color: #ff7402;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 50px;
+}
+.body-style{
+    margin-top: -10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 50px;
+}
+.body-text{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 50px;
+    width: 93%;
+}
+.body-btn{
+    background: orangered;
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+    height: 40px;
+    width: 190px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.body-btn:hover{
+    cursor: pointer;
+}
+.service-heading{
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.service-heading-align{
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+}
+.service-body{
+    margin-left: 50px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    float: left;
+    width: 30%;
+    padding: 10px;
+    background: white;
+    border-radius: 10px;
+}
+/* .service-body:hover{
+    background: orangered;
+    color: white;
+} */
+h4{
+    text-align: center;
+}
+
+span{
+    color: blue;
+}
+/* .service-body{
+    margin-left: 50px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    float: left;
+    width: 40%;
+    padding: 10px;
+    border: 3px solid #ff7402;
+    border-radius: 10px;
+} */
+.body-contact{
+    width: 70%;
+    float: left;
+    margin-bottom: 20px;
+}
+.body-contact1{
+    margin-left: -70px;
+}
+.contact-heading{
+    margin-left: 55px;
+    font-size: 18px;
+}
+.body-contact-input{
+    margin-left: 130px;
+    width: 35%;
+    float: left;
+    font-size: 16px;
+    height: 35px;
+    padding-left: 15px;
+    margin-top: 15px;
+    border: 2px goldenrod solid;
+}
+.body-contact-input2{
+    margin-left: 52px;
+}
+.select-contact{
+    width: 376px;
+    height: 41px;
+}
+.select-contact2{
+    width: 77.5%;
+    margin-bottom: 10px;
+}
+.btn-margin{
+    margin-left: 130px;
+}
+.footer-bottom{
+    float: left;
+    background: black;
+    color: white;
+    width: 100%;
+    height: 35px;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.service-image{
+    text-align: center;
+}
+.image-service{
+    height: 135px;
+    width: 210px;
+}
+h4{
+    color: black;
+    font-size: 20px;
+    margin-bottom: -4px;
+}
+.service-body1{
+    background: white;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    width: 35%;
+    float: left;
+    padding: 30px 30px 0 30px;
+    font-size: 16px;
+    color: gray;
+    border-radius: 10px;
+}
+
+/* CONTACT US */
+
+.body-contact-us{
+    background: linear-gradient(rgb(225, 220, 231),#D3F8E8);
+    height: 600px;
+    margin-top: 20px;
+}
+.body-contact-input-new{
+    width: 80%;
+    float: left;
+    font-size: 16px;
+    height: 35px;
+    padding-left: 15px;
+    margin-top: 15px;
+    border: 2px goldenrod solid;
+}
+ .body-contact2{
+    text-align: center;
+    float: left;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+.contact-us-align{
+    padding-top: 35px;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    float: left;
+    padding-left: 0px;
+}
+.body-btn-new{
+    background: orangered;
+    color: white;
+    text-align: center;
+    float: left;
+    height: 40px;
+    width: 190px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    border-color: transparent;
+    margin-left: -885px;
+    margin-top: 80px;
+} 
+
+/* ABOUT US */
+.abouts-body{
+    background: linear-gradient(rgb(225, 220, 231),#D3F8E8);
+    height: 600px;
+
+    margin-top: 20px;
+}
